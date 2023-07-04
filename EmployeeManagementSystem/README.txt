@@ -4,7 +4,12 @@
 
 User Guide: Employee Management System
 
-Thank you for choosing the Employee Management System. This guide will provide you with step-by-step instructions on how to set up and use the program on your computer. Please note that the system utilizes MySQL as the database. Follow the directions below to ensure a smooth installation and usage process.
+Thank you for choosing the Employee Management System. This guide will provide you with step-by-step instructions on how to set up and use the program on your computer. Just so you know, the system uses MySQL as the database. Follow the directions below to ensure a smooth installation and usage process.
+
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+
+Open src/employeemanagementsystem folder to see the class-wise code.
 
 ------------------------------------------------------------------------
 ------------------------------------------------------------------------
@@ -20,7 +25,7 @@ MySQL Connector/J library added to your Java classpath
 
 Installation Steps:
 Download the Employee Management System files from the provided source.
-Extract the downloaded files to a preferred location on your computer.
+You can extend the downloaded files to a preferred location on your computer.
 
 ------------------------------------------------------------------------
 ------------------------------------------------------------------------
@@ -67,11 +72,6 @@ Using the Employee Management System:
 Note: Ensure that the MySQL database is running before launching the Employee Management System.
 
 hope this user guide helps you in successfully installing and utilizing the Employee Management System. Should you encounter any issues or require further assistance, please refer to the provided documentation or contact our support team.
-
-contact info
-email: sanjid.sa191@gmail.com
-what's app: 01867044436
-
 
 Thank you 
 
