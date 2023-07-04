@@ -2,7 +2,7 @@
 ------------------------------------------------------------------------
 ------------------------------------------------------------------------
 
-User Guide: Employee Management System
+User Guide: Employee Management System ( Employee Management System with GUI and MySQL )
 
 Thank you for choosing the Employee Management System. This guide will provide you with step-by-step instructions on how to set up and use the program on your computer. Just so you know, the system uses MySQL as the database. Follow the directions below to ensure a smooth installation and usage process.
 
